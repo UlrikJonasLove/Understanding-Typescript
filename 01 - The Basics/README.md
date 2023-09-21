@@ -18,6 +18,6 @@
 
 To install node-modules (use terminal)
 
-### 'tsc [filename].ts'
+### 'tsc [filename].ts' --w(atch)
 
 To compile TypeScript to JavaScript (use terminal)

@@ -19,3 +19,15 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * Function Return Types and "void"
 * Function Types
 * The Never type and unknown type
+
+### 2. TypeScript Compiler and Configuration
+
+* Setting a compilation target
+* Typescript cire libs
+* Configuration and compilation options
+* source maps
+* rootDir and outDir
+* noEmitOnError and noUnusedLocals
+* strictNullChecks
+* watch mode
+* include and exclude
