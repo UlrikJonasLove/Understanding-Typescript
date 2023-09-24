@@ -31,3 +31,12 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * strictNullChecks
 * watch mode
 * include and exclude
+
+### 3. Next-Gen JS and TS
+
+* let and const
+* Arrow functions
+* Default function parameters
+* Spread operator
+* Rest parameter
+* Array and object destructuring
