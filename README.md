@@ -40,3 +40,24 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * Spread operator
 * Rest parameter
 * Array and object destructuring
+
+### 4. Classes and Interfaces
+
+#### Classes
+* Classes are blueprints for objects
+* Constructure functions and this-keyword
+* Public and private access modifiers
+* Shorthand initialization
+* Readonly properties
+* Inheritance
+* Getters and setters
+* Static properties and methods
+* Abstract classes
+* Singletons and private constructors
+
+#### Interfaces
+* Interfaces with classes
+* Interfaces with functions
+* Readonly properties
+* Optional properties
+* Extending interfaces
