@@ -44,6 +44,7 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 ### 4. Classes and Interfaces
 
 #### Classes
+
 * Classes are blueprints for objects
 * Constructure functions and this-keyword
 * Public and private access modifiers
@@ -56,8 +57,19 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * Singletons and private constructors
 
 #### Interfaces
+
 * Interfaces with classes
 * Interfaces with functions
 * Readonly properties
 * Optional properties
 * Extending interfaces
+
+### 5. Advanced Types
+
+* intersection types
+* more on type guards
+* discriminated unions
+* type casting
+* function overloads
+* optional chaining
+* nullish coalescing
