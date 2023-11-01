@@ -43,7 +43,7 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 
 ### 4. Classes and Interfaces
 
-#### Classes
+##### Classes
 
 * Classes are blueprints for objects
 * Constructure functions and this-keyword
@@ -73,3 +73,16 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * function overloads
 * optional chaining
 * nullish coalescing
+
+### 6. Generics
+
+* Generic functions
+* Generic types
+* Generic classes
+* Constraints
+* Built-in generics
+* the "keyof" constraint
+
+### 7. Decorators
+
+* Decorator factories
