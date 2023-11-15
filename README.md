@@ -86,3 +86,16 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 ### 7. Decorators
 
 * Decorator factories
+
+### Project - Drag and Drop
+This project uses some of the key features of TypeScript. It is a simple drag and drop project where you can drag and drop elements from one container to another. It uses the following features:
+* Classes
+* Interfaces
+* Type Casting
+* Decorators
+* Generics
+* Enums
+* Union Types
+* Type Guards
+* Drag and Drop API
+* More...
