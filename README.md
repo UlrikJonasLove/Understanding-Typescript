@@ -99,3 +99,4 @@ This project uses some of the key features of TypeScript. It is a simple drag an
 * Type Guards
 * Drag and Drop API
 * ES Modules (imports, exports)
+* Webpack configuration
