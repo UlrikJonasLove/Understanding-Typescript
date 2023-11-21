@@ -87,6 +87,13 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 
 * Decorator factories
 
+### Third Party Libraries
+
+* @Types/someNpmPackage for typescript when using javascript npm packages
+* declare as a last resort
+* class-transformer
+* class-validator
+
 ### Project - Drag and Drop
 This project uses some of the key features of TypeScript. It is a simple drag and drop project where you can drag and drop elements from one container to another. It uses the following features:
 * Classes
