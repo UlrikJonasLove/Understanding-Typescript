@@ -87,7 +87,7 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 
 * Decorator factories
 
-### Third Party Libraries
+### 8. Third Party Libraries
 
 * @Types/someNpmPackage for typescript when using javascript npm packages
 * declare as a last resort
@@ -107,3 +107,8 @@ This project uses some of the key features of TypeScript. It is a simple drag an
 * Drag and Drop API
 * ES Modules (imports, exports)
 * Webpack configuration
+
+### Project - Select and Share a Place
+* Getting user input and fetching coordinates from the Google Maps API
+* Google Maps API
+* Axios with typescript
