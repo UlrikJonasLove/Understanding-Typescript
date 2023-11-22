@@ -100,6 +100,13 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * Props and state
 * useRef for user inputs
 
+### 10. Node with TypeScript
+
+* Node with TypeScript
+* Express with TypeScript
+* CRUD methods with TypeScript
+* Nodemon - for auto refresh
+
 ### Project - Drag and Drop
 This project uses some of the key features of TypeScript. It is a simple drag and drop project where you can drag and drop elements from one container to another. It uses the following features:
 * Classes
