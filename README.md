@@ -94,6 +94,12 @@ All the projects from Udemy Course "Understanding TypeScript" with alot of comme
 * class-transformer
 * class-validator
 
+### 9. React with TypeScript
+
+* React with TypeScript
+* Props and state
+* useRef for user inputs
+
 ### Project - Drag and Drop
 This project uses some of the key features of TypeScript. It is a simple drag and drop project where you can drag and drop elements from one container to another. It uses the following features:
 * Classes
